@@ -4,6 +4,7 @@ An acquaintance asked for a *simple* responsive jQuery sample that showcased vie
 Criteria :
 - Use JQuery
 - Build a responsive 'class="container"' div that'll hold a tab module
+- Give the container a maxwidth of 980, and center it when the window width > 980
 - Convert from tabs to accordion when window in portrait mode (or width < 480px)
 - Build a back button friendly hash-bang-slash (i.e. "#!/") URL navigation system 
 
